@@ -1,5 +1,5 @@
 # amazon-sentiment-analysis
-Sentiment analysis on Amazon smartphone reviews using TextBlob
+This project uses Python and TextBlob to perform sentiment analysis on Amazon smartphone reviews.
 
 ## Tools Used 
 - Pandas
