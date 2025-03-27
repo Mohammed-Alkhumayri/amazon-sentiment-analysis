@@ -1,7 +1,7 @@
 # amazon-sentiment-analysis
 Sentiment analysis on Amazon smartphone reviews using TextBlob
 
-##Tools Used 
+## Tools Used 
 - Pandas
 - TextBlob
 - Matplotlib
